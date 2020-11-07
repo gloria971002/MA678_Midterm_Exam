@@ -1,0 +1,33 @@
+Role,Time (h),Type
+middle school student,0.5,c
+middle school student,0.5,a
+middle school student,1,c
+middle school student,0,NA
+middle school student,0.5,c
+undergraduate student,2.75,a
+undergraduate student,6,b
+undergraduate student,6,a
+undergraduate student,12,b
+undergraduate student,10,a
+undergraduate student,3,c
+undergraduate student,10,c
+undergraduate student,10,a
+undergraduate student,7.5,a
+undergraduate student,17,a
+graduate student,8,b
+graduate student,4,a
+graduate student,7,c
+graduate student,4,a
+graduate student,6,a
+graduate student,3,b
+graduate student,4,a
+graduate student,4.5,c
+employee,18,c
+employee,5,a
+employee,10,b
+employee,7,c
+employee,3,c
+employee,2,b
+employee,4,a
+employee,2,c
+employee,8,c
